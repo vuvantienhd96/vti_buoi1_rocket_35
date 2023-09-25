@@ -1,0 +1,19 @@
+#content {
+
+}
+
+.navbar {
+    
+}
+
+.header {
+    display: flex;
+}
+
+.navbar-left {
+    width: 30%;
+}
+
+.navbar-right {
+    width: 70%;
+}
